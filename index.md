@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [site 1](https://github.com/JackeggAdam/dbq.github.io/notes/hello.md) 
+You can use the [site 1](https://jackeggadam.github.io/dbq.github.io/notes/hello.md) 
 
 
 ### Markdown
